@@ -1,7 +1,4 @@
 1.vijay
 2.laxmi
-3.Ravinder Reddy
-4.Baga Reddy
-5.Sheshirekha
-6.sun
-7.moon
+
+
